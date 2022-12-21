@@ -1,5 +1,6 @@
-package com.nicodemus.hgmod.item;
+package com.nicodemus.hgmod;
 
+import com.nicodemus.hgmod.init.ModItems;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 
